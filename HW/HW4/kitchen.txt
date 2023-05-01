@@ -1,0 +1,8 @@
+global：  Total dishes cooked: 303
+Minimum: 30 Maximum:31
+
+ordered：Total dishes cooked: 781
+Minimum: 37  Maximum: 259
+
+takeAll: Total dishes cooked: 1003
+Minimum: 20 Maximum: 261
